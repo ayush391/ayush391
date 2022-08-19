@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [GCET Jammu Website](college-website-52b15.web.app/)
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **stringakaak@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true](https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true)
