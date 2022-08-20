@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **stringakaak@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true](https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true"><b>Resume</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
