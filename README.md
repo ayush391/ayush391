@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush391&label=Profile%20views&color=0e75b6&style=flat" alt="ayush391" /> </p>
  
-- 🔭 I’m currently working on => [InternKaro Wesbite](https://search-karo.com/)
+- 🔭 I’m currently working on => [Blog App](https://jocular-youtiao-1a8b03.netlify.app)
 
 - 📫 How to reach me => **stringakaak@gmail.com**
 
-- 📄 Know about my experiences => [Resume]([https://docs.google.com/document/d/1PSqrPAqMxE-gabDryY5Zv_4Pb75tKmW7/edit?usp=sharing&ouid=106441124984563952901&rtpof=true&sd=true](https://docs.google.com/document/d/e/2PACX-1vQa_2DGdj-3OECzCTYt68of5-D9l74NAVeHB-nLm3wYgsEtytngoW3cwZVrzc_3zg/pub))
+- 📄 Know about my experiences => [Resume](https://drive.google.com/file/d/1nAsazPiGbe0RU9R4tqlM_5macT2jSFzp/view?usp=drivesdk)
 - 😳 Check out my portfolio website => [Website](https://ayush391.github.io/portfolio_website/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
