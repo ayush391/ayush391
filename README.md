@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush391&label=Profile%20views&color=0e75b6&style=flat" alt="ayush391" /> </p>
  
-- 🔭 I’m currently working on => [Blog App](https://jocular-youtiao-1a8b03.netlify.app)
+<!-- - 🔭 I’m currently working on => [Blog App](https://jocular-youtiao-1a8b03.netlify.app) -->
 
 - 📫 How to reach me => **stringakaak@gmail.com**
 
