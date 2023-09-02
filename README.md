@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, my name is Ayush</h1>
-<h3 align="center">A passionate fullstack web developer from India.</h3>
+<h3 align="center">A passionate web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush391&label=Profile%20views&color=0e75b6&style=flat" alt="ayush391" /> </p>
  
